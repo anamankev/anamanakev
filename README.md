@@ -1,46 +1,70 @@
 <h1 align="center">Hi 👋, I'm Kelvin Anaman</h1>
 
-<h3 align="center">
-Computer Science × Mathematics • Artificial Intelligence • Building the Future Through Intelligent Systems
-</h3>
+<h3 align="center">Founder & CEO @ Pulse · Incoming CS + Applied Math @ Brandeis University</h3>
 
 <p align="center">
-<i>
-Turning mathematical intuition into intelligent systems through code.
-</i>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=50&lines=Physics-Constrained+ML+for+the+Grid;Expanding+Reliable+Energy+Access+Worldwide;Where+Mathematics+Meets+Machine+Learning" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
+  <i>Turning mathematical intuition into intelligent systems, one physics-constrained model at a time.</i>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&label=Total%20Stars" alt="Total stars"/>
+</p>
 
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github"/>
-
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=Founder%20%26%20CEO&message=Pulse&labelColor=1A1B26&color=FDB813&style=for-the-badge" alt="Founder and CEO of Pulse"/>
+  <img src="https://img.shields.io/static/v1?label=Brandeis&message=Class%20of%202030&labelColor=1A1B26&color=7AA2F7&style=for-the-badge" alt="Brandeis Class of 2030"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-I'm **Kelvin Anaman**, an aspiring Artificial Intelligence researcher and software engineer passionate about solving complex real-world problems through mathematics, computer science, and machine learning.
+I'm **Kelvin Anaman**, Founder and CEO of **Pulse**, an AI-first energy technology company building a physics-constrained machine learning platform for real-time electricity grid orchestration. I'm an incoming **Wien International Scholar at Brandeis University** (Class of 2030), studying Computer Science and Applied Mathematics.
 
-I enjoy designing scalable software, developing intelligent systems, and exploring how mathematical reasoning can power the next generation of AI. My long-term goal is to contribute to cutting-edge research while building technologies that create meaningful global impact.
+My work sits at the intersection of physics-informed ML, energy systems, and mathematical reasoning: from grid-scale forecasting models at Pulse to published research on physics-constrained models for pyrolysis yield prediction. I care about building technology that expands reliable energy access, and I mentor olympiad mathematics students in my spare time.
 
 ---
 
 # 🧠 Current Focus
 
-- 🤖 Artificial Intelligence
-- 🧩 Machine Learning
-- 🧠 Large Language Models (LLMs)
-- 📐 Mathematics for AI
-- ⚡ Algorithms & Data Structures
-- 🏗️ Software Engineering
-- ☁️ Distributed Systems
-- 🔬 AI Research
-- 📊 Data Science
+- ⚡ Physics-Constrained Machine Learning
+- 🔋 Energy Systems & Smart Grid AI
+- 🤖 Large Language Models (LLMs)
+- 📐 Applied Mathematics for AI
+- 🏗️ Scalable Software Architecture
+- 🔬 AI Research & Publication
+- 🧮 Mathematical Optimization
+- 📊 Real-Time Data Systems
+
+---
+
+# 🔋 Featured Project: Pulse
+
+> Pulse is building the physics-constrained ML platform for real-time electricity grid orchestration, with a mission to become the operating system for electricity for the next billion people.
+
+- 🧠 Physics-informed models instead of black-box ML for grid-scale forecasting
+- ⚙️ MVP path: **PulseCore → PulsePredict → PulseOS**
+- 🌱 8-person founding team building toward a data center pilot
+
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=Status&message=Building&labelColor=1A1B26&color=FDB813&style=flat-square" alt="Status: Building"/>
+  <img src="https://img.shields.io/static/v1?label=Focus&message=Energy%20%2B%20AI&labelColor=1A1B26&color=7AA2F7&style=flat-square" alt="Focus: Energy and AI"/>
+</p>
+
+---
+
+# 📄 Research & Publications
+
+- **"Curbing Waste Disposal Using Pyrolysis"**: a physics-constrained ML model (SmartPyro) for pyrolysis yield prediction, presented at ASME ES2026.
+- **Vector Boson Polarization Classification** (94% ROC-AUC): Lumiere Research Scholar Program, published in NHSJS.
 
 ---
 
@@ -49,33 +73,29 @@ I enjoy designing scalable software, developing intelligent systems, and explori
 ### Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,html,css"/>
-
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,java,js,ts,html,css" alt="Python, C++, C, Java, JavaScript, TypeScript, HTML, CSS"/>
 </p>
 
 ### AI & Data Science
 
 <p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="PyTorch, TensorFlow"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+### Frameworks & Infrastructure
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,react,postgres" alt="FastAPI, React, PostgreSQL"/>
 </p>
 
 ### Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker"/>
-
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" alt="Git, GitHub, VS Code, Linux, Docker"/>
 </p>
 
 ---
@@ -83,18 +103,18 @@ I enjoy designing scalable software, developing intelligent systems, and explori
 # 📖 Interests
 
 ```text
+Physics-Constrained Machine Learning
+Energy Systems & Smart Grids
 Artificial Intelligence
-Machine Learning
-Deep Learning
 Large Language Models
-Algorithms
 Mathematical Optimization
+Algorithms & Data Structures
 Scientific Computing
 Distributed Systems
 Computer Vision
 Natural Language Processing
 Software Architecture
-Research
+Research & Mentorship
 ```
 
 ---
@@ -102,17 +122,24 @@ Research
 # 📈 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kelvin's GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  </picture>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=anamankev&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=anamankev&theme=default&hide_border=true">
+    <img src="https://streak-stats.demolab.com/?user=anamankev&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  </picture>
 </p>
 
 ---
@@ -120,39 +147,25 @@ Research
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&column=4"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=anamankev&theme=tokyonight&no-frame=true&column=4" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📊 Contribution Activity
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anamankev&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph"/>
 </p>
 
 ---
 
 # 🌍 Connect With Me
 
-<p>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://twitter.com/YOUR_X_HANDLE">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
+<p align="center">
+  <a href="https://https://www.linkedin.com/in/kelvin-anaman"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/__iamanaman?igsh=MXRnNHMxNzMxZWZ6OQ%3D%3D&utm_source=qr"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram/X"/></a>
+  <a href="mailto:kanaman@brandeis.edu"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>
 </p>
 
 ---
@@ -169,6 +182,6 @@ Research
 
 Thanks for visiting my profile ⭐
 
-Let's build the future with Artificial Intelligence.
+Let's build the future of intelligent energy systems together.
 
 </h3>
