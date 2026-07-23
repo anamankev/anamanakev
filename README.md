@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# ⚡ Kelvin [Your Last Name]
+# ⚡ Kelvin Anaman
 
 ### Founder & CEO • Pulse Organization
 
@@ -62,13 +62,13 @@
 
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/anamankev">
 
 <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github"/>
 
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=2563EB"/>
+<img src="https://komarev.com/ghpvc/?username=anamankev&style=for-the-badge&color=2563EB"/>
 
 </div>
 
@@ -81,7 +81,7 @@ class Kelvin:
 
     def __init__(self):
 
-        self.name = "Kelvin [Your Last Name]"
+        self.name = "Kelvin Anaman"
 
         self.role = (
             "Founder & CEO"
@@ -396,17 +396,9 @@ Technology is most meaningful when it improves lives at scale.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=CBD5E1&ring_color=2563EB"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anamankev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=CBD5E1&ring_color=2563EB"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=CBD5E1"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="98%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=3B82F6&currStreakLabel=3B82F6"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamankev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=CBD5E1"/>
 
 </div>
 
@@ -414,7 +406,15 @@ Technology is most meaningful when it improves lives at scale.
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=2563EB&point=FFFFFF&area=true&area_color=1E3A5F"/>
+<img width="98%" src="https://streak-stats.demolab.com?user=anamankev&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=3B82F6&currStreakLabel=3B82F6"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=anamankev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=2563EB&point=FFFFFF&area=true&area_color=1E3A5F"/>
 
 </div>
 
@@ -424,7 +424,7 @@ Technology is most meaningful when it improves lives at scale.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&margin-w=15&margin-h=15&column=4&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=anamankev&theme=algolia&margin-w=15&margin-h=15&column=4&no-frame=true"/>
 
 </div>
 
@@ -559,7 +559,7 @@ Passionate about solving difficult engineering problems at the intersection of
 
 &nbsp;
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/anamankev">
 
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 
